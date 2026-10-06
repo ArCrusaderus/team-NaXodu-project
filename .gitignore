@@ -1,10 +1,13 @@
 # Скомпилированные файлы
 *.class
 *.exe
+*.dll
+*.so
 
 # Зависимости
 node_modules/
 venv/
+__pycache__/
 
 # Файлы IDE
 .idea/
@@ -13,9 +16,8 @@ venv/
 # Файлы операционной системы
 .DS_Store
 Thumbs.db
-desktop.ini
 
-# Файлы с секретами
+# Файлы с секретами и паролями
 .env
 *.key
 
