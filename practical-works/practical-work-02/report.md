@@ -53,11 +53,17 @@
 ![История коммитов](assets/commit-history_2.png.png)
 ![История коммитов](assets/commit-history_3.png.png)
 ![История коммитов](assets/commit-history_4.png.png)
+![История коммитов](assets/commit-history_4.png)
 
 История изменений фиксирует вклад каждого участника через осмысленные сообщения коммитов в формате `тип: описание изменения`.
 
 ### 6. Pull Request и процесс ревью
-*(Вставьте сюда скриншот созданного Pull Request и комментария с одобрением от проверяющего)*
+
+![Pull Request и ревью 1](assets/pull_history_1.png)
+![Pull Request и ревью 2](assets/pull_history_2.png)
+![Pull Request и ревью 3](assets/pull_history_3.png)
+![Pull Request и ревью 4](assets/pull_history_4.png)
+![Pull Request и ревью 5](assets/pull_history_5.png)
 
 Процесс слияния изменений осуществляется через Pull Request для обеспечения проверки кода и соответствия стандартам оформления перед внесением в основную ветку `main`.
 
