@@ -49,10 +49,10 @@
 
 ### 5. История коммитов
 
-![История коммитов](assets/commit-history_1.png)
-![История коммитов](assets/commit-history_2.png)
-![История коммитов](assets/commit-history_3.png)
-![История коммитов](assets/commit-history_4.png)
+![История коммитов](assets/commit-history_1.png.png)
+![История коммитов](assets/commit-history_2.png.png)
+![История коммитов](assets/commit-history_3.png.png)
+![История коммитов](assets/commit-history_4.png.png)
 
 История изменений фиксирует вклад каждого участника через осмысленные сообщения коммитов в формате `тип: описание изменения`.
 
