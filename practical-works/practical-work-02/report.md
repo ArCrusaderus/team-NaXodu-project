@@ -1,4 +1,4 @@
-# Отчёт по практической работе №2
+<img width="291" height="663" alt="image" src="https://github.com/user-attachments/assets/71903048-ff84-4b0a-a63d-08a63b49d286" /># Отчёт по практической работе №2
 ## Организация работы с репозиторием проекта и распределение ответственности в Git
 
 **Студент:** Панченко Артём  
@@ -23,7 +23,6 @@
 [https://github.com/ArCrusaderus/team-NaXodu-project](https://github.com/ArCrusaderus/team-NaXodu-project)
 
 ### 3. Структура репозитория
-
 
 
 
